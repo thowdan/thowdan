@@ -1,5 +1,51 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on
+Building intelligent systems and real-world applications, including projects like fire detection systems using deep learning and computer vision.
+
+👯 I’m looking to collaborate on
+AI-powered applications, mobile apps, and innovative tech solutions that solve real-life problems.
+
+🤝 I’m looking for help with
+Improving model performance, deployment (especially mobile + backend integration), and scaling applications.
+
+🌱 I’m currently learning
+Advanced Machine Learning, Deep Learning (PyTorch, TensorFlow), and mobile app development with modern frameworks.
+
+💬 Ask me about
+Python, computer vision, YOLO models, app development, and UI/UX basics.
+
+⚡ Fun fact
+I love turning complex ideas into practical projects that actually work in real-world environments 🚀
+
+If you want, I can tailor it specifically to your firefighting robot project + dashboard + app integration so it looks even more impressive for recruiters.
+
+im a software engineer iwork with full stack my name is Thowdan Al-Eryani Im a graduate of Information System Make it look so energetic and positive and professional human writing
+
+Here’s a more energetic, human, and polished GitHub profile README tailored to you:
+
+👋 Hey there, I’m Thowdan Al-Eryani
+
+🚀 Software Engineer | Full Stack Developer
+
+I’m a passionate and driven Software Engineer with a background in Information Systems, focused on building impactful, real-world applications from front to back. I enjoy turning ideas into fully functional products that are both efficient and user-friendly.
+
+🔭 I’m currently working on
+Developing full-stack applications and smart systems, including projects that combine AI, mobile apps, and dashboards into one seamless experience.
+
+👯 I’m looking to collaborate on
+Innovative full-stack projects, AI-driven solutions, and anything that challenges me to grow and build something meaningful.
+
+🤝 I’m looking for help with
+Scaling applications, advanced backend architecture, and optimizing performance in complex systems.
+
+🌱 I’m currently learning
+New technologies in full-stack development, system design, and integrating AI into production-ready applications.
+
+💬 Ask me about
+Full-stack development, APIs, databases, building apps from scratch, and turning concepts into real products.
+
+⚡ Fun fact
+I genuinely enjoy the process of building — from the first idea to the final product — and I’m always excited to take on new challenges and push my limits.
 
 
 ## 🌐 Socials:
