@@ -2,12 +2,17 @@
 👋 Hi, I’m Thowdan Al-Eryani
 
 🚀 Software Engineer | Full Stack Developer
+
 🎓 Information Systems Graduate — Misr University for Science and Technology
 
 🔭 Building real-world full-stack and AI-powered applications
+
 👯 Open to collaborating on innovative tech projects
+
 🌱 Always learning and improving
+
 💬 Ask me about full-stack development, APIs, and system design
+
 ⚡ I love turning ideas into working products
 
 
