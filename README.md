@@ -17,11 +17,11 @@
 
 
 ## 🌐 Connect with me:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Thowdan.Aleryani) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thowdan_eryani) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Thowdan Al-Eryani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thowdan64@gmail.com) 
+[![Facebook](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)](https://facebook.com/Thowdan.Aleryani) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thowdan_eryani) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Thowdan Al-Eryani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thowdan64@gmail.com) 
 
 
 
- <a href="https://[fb.com/thowdan aleryani](https://www.facebook.com/thowdan.aleryani/?locale=sw_KE)](https://www.facebook.com/thowdan.aleryani/?locale=sw_KE)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thowdan aleryani" height="30" width="40" /></a>
+ <a href="https://[fb.com/thowdan aleryani](https://www.facebook.com/thowdan.aleryani/?locale=sw_KE)](https://www.facebook.com/thowdan.aleryani/?locale=sw_KE)" target="blank"><img align="center" src="https://" alt="thowdan aleryani" height="30" width="40" /></a>
 
 <a href="https://instagram.com/thowdan_eryani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thowdan_eryani" height="30" width="40" /></a>
 </p>
