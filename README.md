@@ -15,7 +15,7 @@
 ## 🚀 About Me
 
 - 🎓 **Information Systems graduate** — Misr University for Science and Technology
-- 🏗️ Founder of **TB3 Technologies** — a software & digital products studio
+- 🏗️ Founder of **TB3 Technologies** — a software & digital products Company
 - 🔭 Building **real-world full-stack and AI-powered applications**
 - 👯 Open to **collaborating** on innovative tech projects
 - 💬 Ask me about **full-stack development, APIs, and system design**
