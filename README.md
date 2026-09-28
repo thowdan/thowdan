@@ -22,6 +22,7 @@
 - 🌱 Always learning. Always shipping.
 - ⚡ I love turning ideas into working products
 - 📫 Reach me at **[thowdan64@gmail.com](mailto:thowdan64@gmail.com)**
+- 👉 View my work: **[thowdanaleryani.vercel.app](https://thowdanaleryani.vercel.app/)**
 
 <br/>
 
