@@ -3,6 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,100:1F6FEB&text=Thowdan%20Al-Eryani&fontSize=42&fontColor=F0F6FC&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descSize=17&descAlignY=55" width="100%" alt="Header banner" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+real-world+AI-powered+apps;Founder+%40+TB3+Technologies;Full-Stack+%7C+APIs+%7C+System+Design;I+turn+ideas+into+working+products" alt="Typing animation" />
+
  
 <br/> 
 
