@@ -88,14 +88,14 @@
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| 🦷 **[Elias Dental](https://eliasdental.vercel.app)** | Bilingual (EN/RO) dental practice platform — DB-level overlap prevention ends double-booked appointments | Next.js 16 · React 19 · TypeScript · Neon PostgreSQL · Zod |
-| 🪑 **[Jawdat Khashab](https://jawdat-khashab.vercel.app)** | Furniture e-commerce shipped in 1 week — transactional orders & inventory reservations prevent overselling | Next.js 16 · Prisma 7 · PostgreSQL · JWT |
-| 🍳 **[Blum for Kitchens](https://blumkitchens.vercel.app)** | Arabic-first platform for 4 Saudi branches — protected lead dashboard, bot protection, local SEO | Next.js · next-intl · Upstash Redis · JSON-LD |
-| 🔥 **RoboFireFighter** | 🏆 Best Graduation Project — Flutter control app for an autonomous firefighting robot, live feeds & 3-tier alerts | Flutter · Dart · Supabase · Raspberry Pi · YOLOv11 |
-| ⚡ **[RealtimeHub](https://realtimehubspace.vercel.app)** | Chat, tasks and files in one app with live multi-user sync | React · TypeScript · Node.js · Express · Socket.IO · PostgreSQL · Redis |
-| 🧠 **[SnipCheck](https://snipcheck.vercel.app)** | AI code-analysis REST API returning schema-validated JSON, with API keys & rate limiting | Node.js · Gemini API · Structured JSON Output |
-| 🛡️ **[VECTOR/SEC](https://vector-sec.vercel.app)** | Security assessment tool — risk-scores public targets across 6 checks behind an SSRF-guarded endpoint | Serverless · TypeScript |
-| 🎛️ **[DiffGear](https://diff-gear.vercel.app)** | Interactive 3D WebGL brand site | WebGL · JavaScript |
+| 🦷 **[Elias Dental](https://tb3technologies.tech/work/elias-dental)** | Bilingual (EN/RO) dental practice platform — DB-level overlap prevention ends double-booked appointments | Next.js 16 · React 19 · TypeScript · Neon PostgreSQL · Zod |
+| 🪑 **[Jawdat Khashab](https://tb3technologies.tech/work/jawdat-khashab)** | Furniture e-commerce shipped in 1 week — transactional orders & inventory reservations prevent overselling | Next.js 16 · Prisma 7 · PostgreSQL · JWT |
+| 🍳 **[Blum for Kitchens](https://tb3technologies.tech/work/blum-for-kitchens)** | Arabic-first platform for 4 Saudi branches — protected lead dashboard, bot protection, local SEO | Next.js · next-intl · Upstash Redis · JSON-LD |
+| 🔥 **[RoboFireFighter](https://tb3technologies.tech/work/robofirefighter)** | 🏆 Best Graduation Project — Flutter control app for an autonomous firefighting robot, live feeds & 3-tier alerts | Flutter · Dart · Supabase · Raspberry Pi · YOLOv11 |
+| ⚡ **[RealtimeHub](https://tb3technologies.tech/work/realtimehub)** | Chat, tasks and files in one app with live multi-user sync | React · TypeScript · Node.js · Express · Socket.IO · PostgreSQL · Redis |
+| 🧠 **[SnipCheck](https://tb3technologies.tech/work/snipcheck)** | AI code-analysis REST API returning schema-validated JSON, with API keys & rate limiting | Node.js · Gemini API · Structured JSON Output |
+| 🛡️ **[VECTOR/SEC](https://tb3technologies.tech/work/vector-sec)** | Security assessment tool — risk-scores public targets across 6 checks behind an SSRF-guarded endpoint | Serverless · TypeScript |
+| 🎛️ **[DiffGear](https://tb3technologies.tech/work/diffgear)** | Interactive 3D WebGL brand site | WebGL · JavaScript |
 
 <div align="center">
 
