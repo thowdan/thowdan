@@ -15,7 +15,7 @@
 ## 🚀 About Me
 
 - 👨‍💻 **Full-stack software engineer** shipping production systems end to end — React & Next.js front ends, Node.js & TypeScript services, PostgreSQL data layers on Vercel
-- 🏗️ Founder of **[TB3 Technologies](https://tb3technologies.tech/work)** — shipped **10 web, mobile, AI & IoT products**, including **4 client platforms** live in 🇪🇬 Egypt, 🇸🇦 Saudi Arabia and 🇷🇴 Romania
+- 🏗️ Founder of **[TB3 Technologies](https://tb3technologies.tech/work)** — shipped **10+ web, mobile, AI & IoT products**, including **4 client platforms** live in 🇪🇬 Egypt, 🇸🇦 Saudi Arabia and 🇷🇴 Romania
 - 🥈 **Silver Medal** — Huawei ICT Competition, National Phase 2024–2025
 - 🏆 **Best Graduation Project** (IT Dept.) & 4th university-wide — RoboFireFighter
 - 📄 Co-author of *“Smart Fire Firefighting Robot Using Deep Learning and IoT”* (submitted) — 94% detection accuracy
